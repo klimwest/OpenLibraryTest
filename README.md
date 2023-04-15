@@ -15,5 +15,5 @@
 
 ## Скриншоты
 
-![alt text](images/first.png)
-![alt text](images/second.png)
+![alt text](main/images/first.png)
+![alt text](main/images/first.png)
