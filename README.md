@@ -15,5 +15,3 @@
 
 ## Скриншоты
 
-![alt текст](./images/first.png)
-![alt текст](./images/second.png)
