@@ -15,3 +15,5 @@
 
 ## Скриншоты
 
+![ScreenShot](https://github.com/klimwest/OpenLibraryTest/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-04-15%20at%2015.46.59.png)
+![ScreenShot](https://github.com/klimwest/OpenLibraryTest/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-04-15%20at%2015.47.26.png)
